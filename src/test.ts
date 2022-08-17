@@ -1,5 +1,3 @@
 interface Foo {
-
-
-
+    name: string;
 }
